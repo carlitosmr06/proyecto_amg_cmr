@@ -3,3 +3,5 @@
 - En este archivo se recopilará toda la informacion acerca de la configuracion de nuestro proyecto.
 
 Creado por Alejandro
+
+Primer paso: Crear el repositorio (Escrito por Carlos)
